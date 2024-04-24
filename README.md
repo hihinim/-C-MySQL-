@@ -27,7 +27,11 @@ MYSQL (5.7.44)
         2、打开项目属性>VC++目录，将MYSQL安装目录下include和lib文件夹路径分别添加到下面两个目录
 ![image](https://github.com/hihinim/-C-MySQL-/assets/126610519/5cd800d5-eb16-483b-93dd-db6532c75c0a)
 
+执行代码：
+  将源码添加到项目运行即可
+
 效果图：
+
 ![image](https://github.com/hihinim/-C-MySQL-/assets/126610519/80c77f39-445b-441f-bd4d-ac18183c4b3a)
 ![image](https://github.com/hihinim/-C-MySQL-/assets/126610519/8c7ad9dd-8818-47fb-a49f-13d34200c604)
 ![image](https://github.com/hihinim/-C-MySQL-/assets/126610519/1cb48730-4f73-4af6-a3f2-3239672f56a2)
